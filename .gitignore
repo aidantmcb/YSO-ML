@@ -1,7 +1,8 @@
 #IGNORE
 Docs
 BASELINE
-.ipynb_checkpoints
+#.ipynb_checkpoints
 Code/NNpredictYSOfull.ipynb
 Code/NNpredictYSOfull-Copy.ipynb
-
+#Code/.ipynb_checkpoints
+.*
