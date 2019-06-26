@@ -1,7 +1,7 @@
 #IGNORE
 Docs
 BASELINE
-NNpredictYSOfull.ipynb
-NNpredictYSOfull-Copy.ipynb
+Code/NNpredictYSOfull.ipynb
+Code/NNpredictYSOfull-Copy.ipynb
 .*
 !.gitignore
