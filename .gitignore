@@ -6,6 +6,9 @@ Code/NNpredictYSOfull-Copy1.ipynb
 .*
 !.gitignore
 Iso.ipynb
-Code/combines/LargeScaleStarHorse.fits
-Code/Combines/converted.fits
-Code/Combines/*
+Code/Data/combines/LargeScaleStarHorse.fits
+Code/Data/Combines/converted.fits
+Code/Data/Combines/*
+
+Code/Data/Train/StarHorseAug.fits
+Code/Data/Train/SH+phot50000.fits
