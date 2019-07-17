@@ -12,3 +12,6 @@ Code/Data/Combines/*
 
 Code/Data/Train/StarHorseAug.fits
 Code/Data/Train/SH+phot50000.fits
+
+largeOriSample.fits
+*.fits
